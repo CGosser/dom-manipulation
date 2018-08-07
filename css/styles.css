@@ -5,3 +5,16 @@
 .jumbotron {
   text-align: center;
 }
+
+ul {
+  font-size: 16px;
+  list-style-type: none;
+
+}
+
+#bark {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

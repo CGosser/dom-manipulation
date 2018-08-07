@@ -1,7 +1,20 @@
 $(document).ready(function() {
 
   $("#jsButton").click(function() {
-    $("#text1").toggle();
+    $("#jsText").toggle();
+  });
+
+
+  $("#operatorsButton").click(function() {
+    $("#operatorsText").toggle();
+  });
+
+  $("#variablesButton").click(function() {
+    $("#variablesText").toggle();
+  });
+
+  $("#vncButton").click(function() {
+    $("#vncText").toggle();
   });
 
 });
